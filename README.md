@@ -1,43 +1,49 @@
-# You Don't Know JS (book series)
+# You Don't Know JS Yet (book series) - 2nd Edition
 
 This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
-Please feel free to contribute to the quality of this content by submitting PR's for improvements to code snippets, explanations, etc. While typo fixes are welcomed, they will be caught through normal editing processes, and are thus not necessarily important for this repository.
+----
+----
 
-**To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
+| NOTE: The current edition (2nd) of the book series is a *WORK IN PROGRESS*, and [can be found here](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/README.md).<br><br>The finished previous edition (1st) [can be found here](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/README.md). |
+| :--- |
+
+----
+----
+
+## Premier Sponsor
+
+This edition of the **YDKJS(Y)** book series is exclusively sponsored by [Frontend Masters](https://frontendmasters.com).
+
+Frontend Masters is the gold standard for top-of-the-line expert training material in frontend-oriented software development. With over 150 courses on all things frontend, this should be your first and only stop for quality video training on HTML, CSS, JS, and related technologies.
+
+----
+
+I teach [all my workshops](https://frontendmasters.com/kyle-simpson) exclusively through Frontend Masters. If you like this book content, please check out my video training courses.
+
+I want to extend a warm and deep thanks to Marc Grabanski and the entire Frontend Masters team, not only for their excellent work with the video training platform, but for their unwavering support of me and of the "You Don't Know JS" books!
+
+----
 
 ## Titles
 
-* ["Scope & Closures"](scope & closures/README.md) (<a href="http://shop.oreilly.com/product/0636920026327.do">published</a>!)
-* ["this & Object Prototypes"](this & object prototypes/README.md) (<a href="http://shop.oreilly.com/product/0636920033738.do">published</a>!)
-* ["Types & Grammar"](types & grammar/README.md) (draft in progress)
-* "Async & Performance" (planned)
-* "ES6 & Beyond" (planned)
+I recommend reading the second-edition books in this order:
+
+* [Get Started](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/get-started/README.md)
+* [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/scope-closures/README.md)
+* [Objects & Classes](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/objects-classes/README.md)
+* [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/types-grammar/README.md)
+* [Sync & Async](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/sync-async/README.md)
+* [ES.Next & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/es-next-beyond/README.md)
 
 ## Publishing
 
-These books are being released here as rough drafts, but will be edited, produced, and published through O'Reilly.
+As always, you'll be able to read these books online here entirely for free.
 
-If you like the content you find here, and want to support more content like it, please purchase the books once they are available for sale, through your normal book sources. :)
+This edition of the books is being self-published through [GetiPub](https://geti.pub) publishing. The published books will be made available for sale through normal book retail sources.
 
-If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [gittip](https://www.gittip.com/getify/) that I would always appreciate your generosity towards.
+If you'd like to contribute financially towards the effort (or any of my other OSS efforts) aside from purchasing the published books, please consider these options:
 
-## Training
-
-The content for these books derives heavily from a series of training materials I teach professionally (in both public and private-corporate workshop format), called "Advanced JS: The 'What You Need To Know' Parts".
-
-If you like this content and would like to contact me regarding conducting training on these, or other various JS/HTML5/node.js topics, please reach out to me through any of these channels listed here:
-
-[http://getify.me](http://getify.me)
-
-## Contributions
-
-Any contributions you make to this effort **are of course greatly appreciated**.
-
-However, if you choose to contribute content (not just typo corrections) to this repo, you agree that you're giving me a non-exclusive license to use that content for the book series, as I (and O'Reilly) deem appropriate. You probably guessed that already, but we just have to make the lawyers happy by explicitly stating it. So: blah, blah, blah... :)
-
-## License & Copyright
-
-The materials herein are all (c) 2013-2014 Kyle Simpson.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a>.
+* [Github Sponsorship](https://github.com/users/getify/sponsorship)
+* [Patreon](https://www.patreon.com/getify)
+* [Paypal](https://www.paypal.me/getify)
